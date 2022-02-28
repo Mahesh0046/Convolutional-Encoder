@@ -12,4 +12,4 @@ A convolutional encoder consists of k m-stage shift registers containing message
 In this project we have used MATLAB to perform all these functionalities.
 
 ## Outputs
-The output is the generated code word symbolized by v.
+The output is the generated code word and is symbolized by v.
